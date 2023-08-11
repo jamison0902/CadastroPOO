@@ -5,13 +5,13 @@ Implementação de um cadastro de clientes em modo texto, com persistência em a
 ![alt text](cadastroPOO.png)
 
 
-### Versão do Software Utilizado
+### Versão do Software
 
 * JDK 17
 * NetBeans 18
 
 ### Arquivos
 
-* Na pasta **CadastroPOO** está o código Java utilizado nessa aplicação. 
+* Na pasta **CadastroPOO** está o código Java utilizado. 
 * O arquivo **Relatorio_Pratica.pdf** contém informações e análise sobre os procedimentos feitos neste aplicativo.
 
