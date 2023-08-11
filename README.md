@@ -17,6 +17,6 @@ Implementação de um cadastro de clientes em modo texto, com persistência em a
 ### Arquivos
 
 ```bash
-- Na pasta `CadastroPOO` está o código Java utilizado nessa aplicação. 
-- O arquivo ` Relatorio_Pratica.pdf` contém informação e análise sobre os procedimentos feitos neste aplicativo.
+- Na pasta **CadastroPOO** está o código Java utilizado nessa aplicação. 
+- O arquivo **Relatorio_Pratica.pdf** contém informações e análise sobre os procedimentos feitos neste aplicativo.
 ```
