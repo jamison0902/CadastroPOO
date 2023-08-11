@@ -1,8 +1,8 @@
 ## Cadastro com Java
 
-Foi utilizado MongoDB Atlas, TypeScript e Nextjs no desenvolvimento dessa tela de catastro de livro:
+Implementação de um cadastro de clientes em modo texto, com persistência em arquivos, baseado na tecnologia Java.
 
-![alt text](tela.png)
+![alt text](cadastroPOO.png)
 
 
 ## Configuração
