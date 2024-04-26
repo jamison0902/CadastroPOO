@@ -13,5 +13,5 @@ Implementação de um cadastro de clientes em modo texto, com persistência em a
 ### Arquivos
 
 * Na pasta **CadastroPOO** está o código Java utilizado. 
-* O arquivo **Relatorio_Pratica.pdf** contém informações e análise sobre os procedimentos executados.
+
 
